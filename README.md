@@ -7,3 +7,4 @@
 
 <h2>Installation</h2>
 pip install selenium<br>
+pip install bs4
